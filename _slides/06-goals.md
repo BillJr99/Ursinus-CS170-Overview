@@ -4,7 +4,7 @@ transition: zoom
 
 ## What this Course is About
 
-<p class="fragment">We will learn to program in the Java programming language.</p>
+<p class="fragment">We will learn to program in the Python programming language.</p>
 
 <p class="fragment">More importantly, we will learn to develop software that does interesting things using programming as a tool.</p>
 
